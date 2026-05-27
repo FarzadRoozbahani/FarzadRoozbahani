@@ -33,9 +33,3 @@
 <a href="https://ads.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-ads-2.svg" alt="Google Ads" width="40" height="40"/> </a>
 <a href="https://www.google.com/business/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg" alt="Google My Business" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzadroozbahani&show_icons=true&locale=en&layout=compact" alt="farzadroozbahani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzadroozbahani&show_icons=true&locale=en" alt="farzadroozbahani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzadroozbahani&" alt="farzadroozbahani" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadroozbahani" alt="farzadroozbahani" /></a> </p>
